@@ -1,0 +1,18 @@
+{
+	"scripts": {
+		"bit": "bit",
+		"test": "nuxt"
+	},
+	"devDependencies": {
+		"bit-bin": "^13.0.4",
+		"lodash": "^4.17.11",
+		"node-sass": "^4.10.0",
+		"nuxt": "^2.3.2",
+		"points": "github:Rich-Harris/Points",
+		"pug": "^2.0.3",
+		"pug-plain-loader": "^1.0.0",
+		"qrcode-terminal": "^0.12.0",
+		"sass-loader": "^7.1.0"
+	},
+	"dependencies": {}
+}
